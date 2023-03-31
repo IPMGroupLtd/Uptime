@@ -41,18 +41,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/live.teamhub.pro.ico",
     "slug": "live",
     "status": "up",
-    "uptime": "1.53%",
-    "uptimeDay": "1.53%",
-    "uptimeWeek": "1.53%",
-    "uptimeMonth": "1.53%",
-    "uptimeYear": "1.53%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 585,
     "timeDay": 585,
     "timeWeek": 585,
     "timeMonth": 585,
     "timeYear": 585,
-    "dailyMinutesDown": {
-      "2023-03-31": 4
-    }
+    "dailyMinutesDown": {}
   }
 ]
