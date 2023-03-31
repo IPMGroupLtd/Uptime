@@ -8,7 +8,7 @@ sites:
   - name: TeamHub
     url: https://teamhub.pro
   - name: Live
-    url: http://live.teamhub.pro
+    url: http://live.teamhub.pro/swagger
 
 assignees: # Users to assign downtime issues (optional)
   - garethwright
@@ -17,8 +17,8 @@ status-website:
   theme: dark
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: status.teamhub.pro
-  # baseUrl: /abpio-status
+  #cname: status.teamhub.pro
+  baseUrl: /Uptime
   logoUrl: https://teamhub.pro/Common/Images/app-logo-on-light.svg
   #favicon: https://raw.githubusercontent.com/abpframework/abpio-status/master/assets/abp-logo-without-text.svg
   #faviconSvg: https://raw.githubusercontent.com/abpframework/abpio-status/master/assets/abp-logo-without-text.svg
