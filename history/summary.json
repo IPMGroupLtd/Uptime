@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3154,
-    "timeDay": 2372,
-    "timeWeek": 2878,
-    "timeMonth": 2795,
-    "timeYear": 3154,
+    "time": 3136,
+    "timeDay": 2120,
+    "timeWeek": 2644,
+    "timeMonth": 2746,
+    "timeYear": 3136,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/teamhub.pro.ico",
     "slug": "team-hub",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
-    "uptimeYear": "99.96%",
-    "time": 743,
-    "timeDay": 730,
-    "timeWeek": 782,
-    "timeMonth": 745,
-    "timeYear": 743,
+    "uptimeYear": "99.97%",
+    "time": 745,
+    "timeDay": 837,
+    "timeWeek": 791,
+    "timeMonth": 738,
+    "timeYear": 745,
     "dailyMinutesDown": {
       "2023-05-15": 29
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.97%",
-    "time": 399,
-    "timeDay": 382,
-    "timeWeek": 383,
-    "timeMonth": 390,
-    "timeYear": 399,
+    "time": 400,
+    "timeDay": 429,
+    "timeWeek": 389,
+    "timeMonth": 389,
+    "timeYear": 400,
     "dailyMinutesDown": {
       "2023-05-15": 28
     }
