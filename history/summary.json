@@ -4,18 +4,20 @@
     "url": "https://ipmgroupuk.com",
     "icon": "https://icons.duckduckgo.com/ip3/ipmgroupuk.com.ico",
     "slug": "main",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3167,
-    "timeDay": 3284,
-    "timeWeek": 3165,
-    "timeMonth": 2810,
-    "timeYear": 3167,
-    "dailyMinutesDown": {}
+    "time": 3130,
+    "timeDay": 2005,
+    "timeWeek": 2860,
+    "timeMonth": 2745,
+    "timeYear": 3130,
+    "dailyMinutesDown": {
+      "2023-06-01": 0
+    }
   },
   {
     "name": "TeamHub",
