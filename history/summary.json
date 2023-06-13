@@ -25,10 +25,10 @@
     "url": "https://teamhub.pro",
     "icon": "https://icons.duckduckgo.com/ip3/teamhub.pro.ico",
     "slug": "team-hub",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.97%",
     "time": 750,
@@ -37,6 +37,7 @@
     "timeMonth": 748,
     "timeYear": 750,
     "dailyMinutesDown": {
+      "2023-06-13": 1,
       "2023-05-15": 29
     }
   },
@@ -45,9 +46,9 @@
     "url": "http://live.teamhub.pro/swagger",
     "icon": "https://icons.duckduckgo.com/ip3/live.teamhub.pro.ico",
     "slug": "live",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.97%",
@@ -57,6 +58,7 @@
     "timeMonth": 394,
     "timeYear": 398,
     "dailyMinutesDown": {
+      "2023-06-13": 0,
       "2023-05-15": 28
     }
   }
