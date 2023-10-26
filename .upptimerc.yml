@@ -9,6 +9,9 @@ sites:
     url: https://teamhub.pro
   - name: Live
     url: http://live.teamhub.pro/swagger
+  - name: Immix
+    url: https://ipm.immixcs.net
+    
 
 assignees: # Users to assign downtime issues (optional)
   - garethwright
