@@ -8,12 +8,12 @@
     "uptime": "99.55%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.60%",
+    "uptimeMonth": "98.67%",
     "uptimeYear": "99.55%",
     "time": 5287,
     "timeDay": 6217,
     "timeWeek": 5643,
-    "timeMonth": 5262,
+    "timeMonth": 5277,
     "timeYear": 5287,
     "dailyMinutesDown": {
       "2023-11-22": 23,
@@ -105,9 +105,9 @@
     "url": "https://ipm.immixcs.net",
     "icon": "https://icons.duckduckgo.com/ip3/ipm.immixcs.net.ico",
     "slug": "immix",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.89%",
@@ -117,6 +117,7 @@
     "timeMonth": 565,
     "timeYear": 1146,
     "dailyMinutesDown": {
+      "2023-12-05": 0,
       "2023-11-08": 18,
       "2023-10-29": 43
     }
