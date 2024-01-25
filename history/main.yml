@@ -1,7 +1,7 @@
 url: https://ipmgroupuk.com
-status: up
-code: 200
-responseTime: 16338
-lastUpdated: 2024-01-25T09:37:08.774Z
+status: down
+code: 429
+responseTime: 767
+lastUpdated: 2024-01-25T09:46:39.680Z
 startTime: 2023-03-31T07:47:31.000Z
 generator: Upptime <https://github.com/upptime/upptime>
