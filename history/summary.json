@@ -43,9 +43,9 @@
     "slug": "team-hub",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 801,
     "timeDay": 775,
@@ -53,7 +53,6 @@
     "timeMonth": 712,
     "timeYear": 801,
     "dailyMinutesDown": {
-      "2024-02-21": 9,
       "2023-10-26": 8,
       "2023-07-16": 127,
       "2023-07-15": 0,
@@ -68,9 +67,9 @@
     "slug": "live",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 399,
     "timeDay": 611,
@@ -78,7 +77,6 @@
     "timeMonth": 409,
     "timeYear": 399,
     "dailyMinutesDown": {
-      "2024-02-21": 9,
       "2023-10-26": 8,
       "2023-06-13": 20,
       "2023-05-15": 28
@@ -89,9 +87,9 @@
     "url": "https://ipm.immixcs.net",
     "icon": "https://icons.duckduckgo.com/ip3/ipm.immixcs.net.ico",
     "slug": "immix",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
@@ -101,6 +99,7 @@
     "timeMonth": 574,
     "timeYear": 822,
     "dailyMinutesDown": {
+      "2024-02-21": 0,
       "2023-11-08": 18,
       "2023-10-29": 43
     }
