@@ -1,7 +1,7 @@
 url: http://live.teamhub.pro/swagger
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-07-20T13:26:00.270Z
+status: up
+code: 200
+responseTime: 552
+lastUpdated: 2024-07-20T15:57:13.807Z
 startTime: 2023-03-31T07:47:37.000Z
 generator: Upptime <https://github.com/upptime/upptime>
