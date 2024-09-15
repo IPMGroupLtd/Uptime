@@ -4,17 +4,17 @@
     "url": "https://ipmgroupuk.com",
     "icon": "https://icons.duckduckgo.com/ip3/ipmgroupuk.com.ico",
     "slug": "main",
-    "status": "up",
+    "status": "down",
     "uptime": "99.63%",
-    "uptimeDay": "96.75%",
+    "uptimeDay": "98.58%",
     "uptimeWeek": "98.61%",
-    "uptimeMonth": "98.09%",
+    "uptimeMonth": "98.12%",
     "uptimeYear": "99.46%",
     "time": 3479,
-    "timeDay": 1333,
-    "timeWeek": 1103,
+    "timeDay": 818,
+    "timeWeek": 1095,
     "timeMonth": 1059,
-    "timeYear": 3293,
+    "timeYear": 3288,
     "dailyMinutesDown": {
       "2024-09-15": 20,
       "2024-09-14": 47,
@@ -80,7 +80,7 @@
       "2024-06-16": 22,
       "2024-06-15": 19,
       "2024-06-14": 22,
-      "2024-06-09": 44
+      "2024-06-09": 26
     }
   },
   {
