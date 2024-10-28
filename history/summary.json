@@ -4,18 +4,19 @@
     "url": "https://ipmgroupuk.com",
     "icon": "https://icons.duckduckgo.com/ip3/ipmgroupuk.com.ico",
     "slug": "main",
-    "status": "up",
+    "status": "down",
     "uptime": "99.65%",
-    "uptimeDay": "93.30%",
+    "uptimeDay": "97.38%",
     "uptimeWeek": "98.42%",
     "uptimeMonth": "99.06%",
-    "uptimeYear": "99.44%",
-    "time": 3137,
-    "timeDay": 861,
-    "timeWeek": 1014,
-    "timeMonth": 1065,
-    "timeYear": 2866,
+    "uptimeYear": "99.45%",
+    "time": 3132,
+    "timeDay": 763,
+    "timeWeek": 926,
+    "timeMonth": 1061,
+    "timeYear": 2861,
     "dailyMinutesDown": {
+      "2024-10-28": 0,
       "2024-10-27": 97,
       "2024-10-22": 45,
       "2024-10-21": 19,
@@ -80,7 +81,7 @@
       "2024-07-22": 15,
       "2024-07-21": 33,
       "2024-07-19": 20,
-      "2024-07-16": 67
+      "2024-07-16": 40
     }
   },
   {
@@ -94,11 +95,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 772,
-    "timeDay": 735,
-    "timeWeek": 828,
-    "timeMonth": 744,
-    "timeYear": 769,
+    "time": 771,
+    "timeDay": 591,
+    "timeWeek": 796,
+    "timeMonth": 734,
+    "timeYear": 768,
     "dailyMinutesDown": {
       "2024-09-17": 17
     }
@@ -114,10 +115,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 401,
-    "timeDay": 269,
-    "timeWeek": 426,
-    "timeMonth": 417,
+    "time": 402,
+    "timeDay": 434,
+    "timeWeek": 425,
+    "timeMonth": 416,
     "timeYear": 403,
     "dailyMinutesDown": {
       "2024-09-17": 16,
@@ -137,16 +138,15 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 648,
-    "timeDay": 434,
-    "timeWeek": 576,
-    "timeMonth": 568,
+    "timeDay": 562,
+    "timeWeek": 583,
+    "timeMonth": 563,
     "timeYear": 648,
     "dailyMinutesDown": {
       "2024-09-02": 21,
       "2024-02-22": 147,
       "2024-02-21": 113,
-      "2023-11-08": 18,
-      "2023-10-29": 43
+      "2023-11-08": 18
     }
   }
 ]
