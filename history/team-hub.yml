@@ -1,7 +1,7 @@
 url: https://teamhub.pro
-status: up
-code: 200
-responseTime: 921
-lastUpdated: 2025-03-19T23:12:23.889Z
+status: down
+code: 500
+responseTime: 16885
+lastUpdated: 2025-03-20T16:14:47.886Z
 startTime: 2023-03-30T18:29:05.000Z
 generator: Upptime <https://github.com/upptime/upptime>
