@@ -11,7 +11,8 @@ sites:
     url: http://live.teamhub.pro/swagger
   - name: Immix
     url: https://ipm.immixcs.net
-    
+  - name: Intelipod Cloud Dashboard
+    url: https://dash.intelipodcloud.co.uk
 
 assignees: # Users to assign downtime issues (optional)
   - garethwright
