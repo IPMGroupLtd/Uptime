@@ -159,5 +159,23 @@
       "2025-03-25": 22,
       "2024-09-02": 21
     }
+  },
+  {
+    "name": "Intelipod Cloud Dashboard",
+    "url": "https://dash.intelipodcloud.co.uk",
+    "icon": "https://icons.duckduckgo.com/ip3/dash.intelipodcloud.co.uk.ico",
+    "slug": "intelipod-cloud-dashboard",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {}
   }
 ]
