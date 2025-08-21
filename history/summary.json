@@ -4,17 +4,17 @@
     "url": "https://ipmgroupuk.com",
     "icon": "https://icons.duckduckgo.com/ip3/ipmgroupuk.com.ico",
     "slug": "main",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "98.11%",
+    "uptimeDay": "98.10%",
     "uptimeWeek": "98.49%",
     "uptimeMonth": "99.14%",
-    "uptimeYear": "99.41%",
-    "time": 1139,
-    "timeDay": 7751,
-    "timeWeek": 2396,
-    "timeMonth": 1807,
-    "timeYear": 1135,
+    "uptimeYear": "99.42%",
+    "time": 1136,
+    "timeDay": 4990,
+    "timeWeek": 2406,
+    "timeMonth": 1820,
+    "timeYear": 1137,
     "dailyMinutesDown": {
       "2025-08-21": 27,
       "2025-08-20": 19,
@@ -81,8 +81,7 @@
       "2025-04-16": 21,
       "2025-04-15": 23,
       "2025-04-14": 24,
-      "2025-04-11": 97,
-      "2025-04-07": 16
+      "2025-04-11": 97
     }
   },
   {
@@ -97,9 +96,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.84%",
     "time": 784,
-    "timeDay": 807,
-    "timeWeek": 709,
-    "timeMonth": 703,
+    "timeDay": 495,
+    "timeWeek": 634,
+    "timeMonth": 699,
     "timeYear": 814,
     "dailyMinutesDown": {
       "2025-05-27": 103,
@@ -130,10 +129,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 414,
-    "timeDay": 346,
-    "timeWeek": 375,
-    "timeMonth": 424,
-    "timeYear": 420,
+    "timeDay": 254,
+    "timeWeek": 329,
+    "timeMonth": 422,
+    "timeYear": 419,
     "dailyMinutesDown": {
       "2024-09-17": 16
     }
@@ -150,9 +149,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 579,
-    "timeDay": 519,
-    "timeWeek": 520,
-    "timeMonth": 531,
+    "timeDay": 472,
+    "timeWeek": 489,
+    "timeMonth": 529,
     "timeYear": 583,
     "dailyMinutesDown": {
       "2025-03-25": 22,
@@ -170,11 +169,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 888,
-    "timeDay": 668,
-    "timeWeek": 830,
-    "timeMonth": 888,
-    "timeYear": 888,
+    "time": 889,
+    "timeDay": 907,
+    "timeWeek": 824,
+    "timeMonth": 889,
+    "timeYear": 889,
     "dailyMinutesDown": {}
   }
 ]
