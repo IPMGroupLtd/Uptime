@@ -6,9 +6,9 @@
     "slug": "main",
     "status": "up",
     "uptime": "99.78%",
-    "uptimeDay": "88.71%",
-    "uptimeWeek": "98.01%",
-    "uptimeMonth": "99.36%",
+    "uptimeDay": "89.66%",
+    "uptimeWeek": "98.15%",
+    "uptimeMonth": "99.39%",
     "uptimeYear": "99.41%",
     "time": 1151,
     "timeDay": 940,
@@ -16,7 +16,7 @@
     "timeMonth": 1217,
     "timeYear": 1134,
     "dailyMinutesDown": {
-      "2025-11-18": 163,
+      "2025-11-18": 149,
       "2025-11-15": 22,
       "2025-11-13": 16,
       "2025-11-03": 26,
@@ -89,7 +89,8 @@
       "2025-06-05": 63,
       "2025-06-03": 23,
       "2025-06-02": 101,
-      "2025-05-31": 22
+      "2025-05-31": 22,
+      "2025-05-29": 19
     }
   },
   {
@@ -148,19 +149,19 @@
     "url": "https://ipm.immixcs.net",
     "icon": "https://icons.duckduckgo.com/ip3/ipm.immixcs.net.ico",
     "slug": "immix",
-    "status": "down",
+    "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.16%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
     "time": 585,
-    "timeDay": 734,
-    "timeWeek": 660,
-    "timeMonth": 625,
+    "timeDay": 675,
+    "timeWeek": 649,
+    "timeMonth": 623,
     "timeYear": 577,
     "dailyMinutesDown": {
-      "2025-11-18": 0,
+      "2025-11-18": 12,
       "2025-09-04": 27,
       "2025-03-25": 22
     }
