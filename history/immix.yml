@@ -1,7 +1,7 @@
 url: https://ipm.immixcs.net
-status: up
-code: 200
-responseTime: 693
-lastUpdated: 2025-11-17T23:02:45.263Z
+status: down
+code: 500
+responseTime: 775
+lastUpdated: 2025-11-18T15:24:57.129Z
 startTime: 2023-10-26T10:36:59.829Z
 generator: Upptime <https://github.com/upptime/upptime>
