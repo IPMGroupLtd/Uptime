@@ -13,6 +13,8 @@ sites:
     url: https://ipm.immixcs.net
   - name: Intelipod Cloud Dashboard
     url: https://dash.intelipodcloud.co.uk
+  - name: Training Site
+    url: https://training.teamhub.pro
 
 assignees: # Users to assign downtime issues (optional)
   - garethwright
