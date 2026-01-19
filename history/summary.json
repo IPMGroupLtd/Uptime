@@ -6,17 +6,17 @@
     "slug": "main",
     "status": "up",
     "uptime": "99.74%",
-    "uptimeDay": "98.13%",
-    "uptimeWeek": "99.28%",
-    "uptimeMonth": "97.20%",
-    "uptimeYear": "99.28%",
+    "uptimeDay": "98.84%",
+    "uptimeWeek": "99.55%",
+    "uptimeMonth": "97.22%",
+    "uptimeYear": "99.27%",
     "time": 1265,
     "timeDay": 1144,
-    "timeWeek": 1639,
+    "timeWeek": 1729,
     "timeMonth": 1544,
-    "timeYear": 1301,
+    "timeYear": 1302,
     "dailyMinutesDown": {
-      "2026-01-19": 27,
+      "2026-01-19": 17,
       "2026-01-13": 29,
       "2026-01-12": 17,
       "2026-01-11": 330,
@@ -96,7 +96,7 @@
       "2025-07-09": 67,
       "2025-07-08": 23,
       "2025-07-06": 66,
-      "2025-07-05": 16
+      "2025-07-05": 88
     }
   },
   {
@@ -173,18 +173,19 @@
     "url": "https://dash.intelipodcloud.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/dash.intelipodcloud.co.uk.ico",
     "slug": "intelipod-cloud-dashboard",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 795,
     "timeDay": 552,
     "timeWeek": 787,
-    "timeMonth": 786,
+    "timeMonth": 787,
     "timeYear": 795,
     "dailyMinutesDown": {
+      "2026-01-19": 0,
       "2025-11-18": 153,
       "2025-08-26": 16
     }
