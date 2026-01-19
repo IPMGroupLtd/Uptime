@@ -4,17 +4,17 @@
     "url": "https://ipmgroupuk.com",
     "icon": "https://icons.duckduckgo.com/ip3/ipmgroupuk.com.ico",
     "slug": "main",
-    "status": "up",
-    "uptime": "99.74%",
-    "uptimeDay": "98.84%",
+    "status": "down",
+    "uptime": "99.75%",
+    "uptimeDay": "98.83%",
     "uptimeWeek": "99.55%",
     "uptimeMonth": "97.22%",
-    "uptimeYear": "99.27%",
+    "uptimeYear": "99.28%",
     "time": 1265,
-    "timeDay": 1212,
-    "timeWeek": 1729,
-    "timeMonth": 1544,
-    "timeYear": 1302,
+    "timeDay": 1155,
+    "timeWeek": 1653,
+    "timeMonth": 1540,
+    "timeYear": 1301,
     "dailyMinutesDown": {
       "2026-01-19": 17,
       "2026-01-13": 29,
@@ -96,7 +96,7 @@
       "2025-07-09": 67,
       "2025-07-08": 23,
       "2025-07-06": 66,
-      "2025-07-05": 88
+      "2025-07-05": 16
     }
   },
   {
@@ -174,18 +174,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/dash.intelipodcloud.co.uk.ico",
     "slug": "intelipod-cloud-dashboard",
     "status": "up",
-    "uptime": "99.92%",
-    "uptimeDay": "99.22%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.92%",
+    "uptime": "99.93%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.93%",
     "time": 795,
     "timeDay": 637,
     "timeWeek": 779,
     "timeMonth": 785,
     "timeYear": 795,
     "dailyMinutesDown": {
-      "2026-01-19": 11,
       "2025-11-18": 153,
       "2025-08-26": 16
     }
