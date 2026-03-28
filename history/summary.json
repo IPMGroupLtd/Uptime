@@ -12,9 +12,9 @@
     "uptimeYear": "99.50%",
     "time": 1321,
     "timeDay": 910,
-    "timeWeek": 861,
+    "timeWeek": 874,
     "timeMonth": 1027,
-    "timeYear": 1338,
+    "timeYear": 1339,
     "dailyMinutesDown": {
       "2026-03-27": 17,
       "2026-03-26": 80,
@@ -165,19 +165,19 @@
     "url": "https://training.teamhub.pro",
     "icon": "https://icons.duckduckgo.com/ip3/training.teamhub.pro.ico",
     "slug": "training-site",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 613,
-    "timeDay": 376,
-    "timeWeek": 636,
-    "timeMonth": 637,
-    "timeYear": 613,
+    "status": "up",
+    "uptime": "99.70%",
+    "uptimeDay": "75.04%",
+    "uptimeWeek": "96.43%",
+    "uptimeMonth": "99.18%",
+    "uptimeYear": "99.70%",
+    "time": 615,
+    "timeDay": 524,
+    "timeWeek": 656,
+    "timeMonth": 643,
+    "timeYear": 615,
     "dailyMinutesDown": {
-      "2026-03-28": 0
+      "2026-03-28": 359
     }
   }
 ]
