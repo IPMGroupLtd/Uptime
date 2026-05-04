@@ -7,13 +7,13 @@
     "status": "up",
     "uptime": "99.81%",
     "uptimeDay": "98.63%",
-    "uptimeWeek": "97.45%",
-    "uptimeMonth": "96.66%",
+    "uptimeWeek": "98.22%",
+    "uptimeMonth": "96.72%",
     "uptimeYear": "99.42%",
     "time": 1295,
     "timeDay": 838,
-    "timeWeek": 756,
-    "timeMonth": 842,
+    "timeWeek": 761,
+    "timeMonth": 844,
     "timeYear": 1314,
     "dailyMinutesDown": {
       "2026-05-03": 20,
@@ -149,9 +149,9 @@
     "url": "https://dash.intelipodcloud.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/dash.intelipodcloud.co.uk.ico",
     "slug": "intelipod-cloud-dashboard",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
@@ -161,6 +161,7 @@
     "timeMonth": 805,
     "timeYear": 805,
     "dailyMinutesDown": {
+      "2026-05-04": 0,
       "2025-11-18": 153,
       "2025-08-26": 16
     }
